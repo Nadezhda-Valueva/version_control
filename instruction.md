@@ -39,3 +39,8 @@
 ```sh
 git clone <ссылка на репозиторий с GitHub >
 ```
+
+## Отправить в GitHub изменения, сделанные в VSCode
+```sh
+git push
+```
